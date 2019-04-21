@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me
 permalink: /about
-comments: true
+comments: false
+archive: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p style="text-align: justify;">My name is Achmad Gozali Ibrahim, you can call me Ichal.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+I am a Technology Enthausiast. Interest on programming, linux, trading, hacking and all things about technology.
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+I Joined Valutac in March 2018 - present as Backend Developer.
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
+My skills: SQL, Python (Django, Flask), Linux, Jira, Github, HTML, Css, and Javascript.
+My hobbies come and go. Currently i learn about web security.</p>
+<!-- 
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 </div>
 
 <div class="col-md-4">
@@ -26,9 +26,9 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for taking the time to read my personal page! ask me for everything about tech, job, girlfriend 🤗, anything.. 🧜‍♂️.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=6285342011756&text=I%20want%20to%20treat%20you%20a%20coffee" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://github.com/AchmadGozali8" class="btn btn-warning">Github</a>
 
 </div>
 </div>
