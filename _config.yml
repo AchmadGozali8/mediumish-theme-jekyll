@@ -6,7 +6,7 @@ logo: 'assets/images/personal_logo.png'
 favicon: 'assets/images/personal_logo.png'
 # baseurl: 
 google_analytics: 'UA-132799978-2'
-disqus: 'demowebsite'
+#disqus: 'demowebsite'
 mailchimp-list: 'https://gmail.us20.list-manage.com/subscribe/post?u=1663556afe69ee65ef581bf5f&amp;id=e08ef6ce19'
 include: ["_pages"]
 permalink: /:title/
